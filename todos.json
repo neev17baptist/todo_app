@@ -1,0 +1,26 @@
+[
+    {
+        "task": "To play chess",
+        "priority": "high",
+        "due_date": "2024-07-04",
+        "done": true
+    },
+    {
+        "task": "TO DANCE HARD",
+        "priority": "LOW",
+        "due_date": "2024-07-04",
+        "done": false
+    },
+    {
+        "task": "TO kick",
+        "priority": "medium",
+        "due_date": "2024-07-04",
+        "done": false
+    }
+    {
+        "task": "TO cook burger",
+        "priority": "medium",
+        "due_date": "2024-07-04",
+        "done": false
+    }
+]
